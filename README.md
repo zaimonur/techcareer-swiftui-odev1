@@ -7,23 +7,23 @@ Amazon ana sayfasına benzer bir arayüzü SwiftUI ile yeniden tasarlayan örnek
 ---
 
 ## ✨ Özellikler
--Modern SwiftUI bileşenleri (NavigationStack, List/Scroll, Grid/Adaptive Columns)
--Arama alanı ve kategori şeritleri (UI replikası)
--Ürün kartı tasarımı
--Basit ve genişletilebilir ViewModel/helpers yapısı
+- Modern SwiftUI bileşenleri (NavigationStack, List/Scroll, Grid/Adaptive Columns)
+- Arama alanı ve kategori şeritleri (UI replikası)
+- Ürün kartı tasarımı
+- Basit ve genişletilebilir ViewModel/helpers yapısı
 
 ---
 
 ## 🧰 Teknolojiler
--Dil: Swift (SwiftUI)
--Hedef: iOS 15+ (öneri) — Xcode 15+ üzerinde geliştirme
--Bağımlılıklar: Harici paket yok (yalın SwiftUI)
+- Dil: Swift (SwiftUI)
+- Hedef: iOS 15+ (öneri) — Xcode 15+ üzerinde geliştirme
+- Bağımlılıklar: Harici paket yok (yalın SwiftUI)
 
 ---
 
 Eğitim/ödev amaçlıdır. Ticari marka/marka öğeleri yalnızca eğitimsel UI replikası bağlamında kullanılmıştır. Ticari olarak kullanılmamıştır.
 
---
+---
 
 ## 🚀 Kurulum (Quick Start)
 ```bash
