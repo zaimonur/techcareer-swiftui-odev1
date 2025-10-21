@@ -1,5 +1,5 @@
 # 🛒 Techcareer SwiftUI for iOS Bootcamp — Ödev 1
-Amazon ana sayfasına benzer bir arayüzü SwiftUI ile yeniden tasarlayan örnek uygulama. Basit ama temiz bir kod yapısıyla listeleme, kart tasarımları, arama çubuğu ve kategori şeritleri gibi temel bileşenleri içerir.
+Amazon ana sayfasına benzer bir arayüzü SwiftUI ile yeniden tasarlayan örnek uygulama. Basit ama temiz bir kod yapısıyla listeleme, kart tasarımları, arama çubuğu ve kategori şeritleri gibi temel bileşenleri içerir. Sadece ana sayfayı içerir.
 <p align="center">
   <img width="354" height="667" src="https://github.com/user-attachments/assets/8be23703-ca1f-4810-ba62-72489f2daa69" />
 </p>
